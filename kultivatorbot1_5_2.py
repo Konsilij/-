@@ -5,7 +5,7 @@ from telebot import types
 
 
 
-bot = telebot.TeleBot('6970053055:AAGp8_DivHfDSkckYW3o7qicvCz7ihbji74')
+bot = telebot.TeleBot('')
 
 #Технические переменные
 
